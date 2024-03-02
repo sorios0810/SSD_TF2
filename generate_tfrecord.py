@@ -34,7 +34,7 @@ def class_text_to_int(row_label):
         'date': (2, 'date'),
         'item_name': (3, 'item_name'),
         'item_price': (4, 'item_price'),
-        'total_amount': (5, 'total_amount'),
+        'total_amount': (5, 'total_amount')}
     return VOC_LABELS[row_label][0]
     # if row_label == 'mobile':
     #     return 1
