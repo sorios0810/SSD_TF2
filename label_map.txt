@@ -1,0 +1,5 @@
+item { id:1,name:'invocie_date'}
+item { id:2,name:'date'}
+item { id:3,name:'item_name'}
+item { id:4,name:'item_price'}
+item { id:5,name:'total_amount'}
